@@ -54,14 +54,13 @@ This command clone this repository to your local VS code.
       
         pip install -r requirement.txt
 
+
 ## Execution
 
 #### To run test 
         pytest .\TestCases\test_BH.py 
 Or 
         We can use `.\run_test.bat` file for allure report
-
-        
 
         
 
