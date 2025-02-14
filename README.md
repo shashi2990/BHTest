@@ -57,7 +57,12 @@ This command clone this repository to your local VS code.
 ## Execution
 
 #### To run test 
-         pytest .\TestCases\test_BH.py 
+        pytest .\TestCases\test_BH.py 
+Or 
+        We can use `.\run_test.bat` file for allure report
+
+        
+
         
 
 ## Github_Workflow_File 
