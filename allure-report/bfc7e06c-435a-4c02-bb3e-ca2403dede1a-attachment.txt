@@ -1,0 +1,18 @@
+[32mINFO    [0m Pages.basePage:basePage.py:15 BasePage initialized with WebDriver
+[32mINFO    [0m Pages.basePage:basePage.py:21 Clicked on element: //button[text()='Accept All']
+[32mINFO    [0m Pages.home_page:home_page.py:14 Closed the welcome banner.
+[32mINFO    [0m Pages.basePage:basePage.py:21 Clicked on element: (//li[@class='nav-item displayed-desktop']/a[normalize-space()='Find a Center'])[2]
+[32mINFO    [0m Pages.home_page:home_page.py:54 Clicked on the find center button.
+[32mINFO    [0m TestCases.test_BH:test_BH.py:54 URL parameter is correctly applied.
+[32mINFO    [0m Pages.basePage:basePage.py:15 BasePage initialized with WebDriver
+[32mINFO    [0m Pages.basePage:basePage.py:30 Entered text 'New York' into element: //input[@id='addressInput']
+[32mINFO    [0m Pages.findCenter_page:findCenter_page.py:17 Entered city name in search bar
+[32mINFO    [0m Pages.basePage:basePage.py:49 Pressed ENTER key on element: //input[@id='addressInput']
+[32mINFO    [0m Pages.findCenter_page:findCenter_page.py:26 Pressed ENTER on search bar
+[32mINFO    [0m Pages.basePage:basePage.py:39 Element found: //span[@class='resultsNumber']
+[32mINFO    [0m Pages.findCenter_page:findCenter_page.py:35 Final search count: 
+[32mINFO    [0m Pages.basePage:basePage.py:39 Element found: //span[@class='resultsNumber']
+[32mINFO    [0m Pages.findCenter_page:findCenter_page.py:35 Final search count: 
+[31m[1mERROR   [0m Pages.basePage:basePage.py:62 Failed to locate elements //div[@class='centerResult infoWindow track_center_select covidOpen']: Message: 
+
+[31m[1mERROR   [0m Pages.findCenter_page:findCenter_page.py:49 Failed to get all search results count: Message:
