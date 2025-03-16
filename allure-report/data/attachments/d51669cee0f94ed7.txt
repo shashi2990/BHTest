@@ -1,6 +1,0 @@
-INFO     Pages.basePage:basePage.py:15 BasePage initialized with WebDriver
-INFO     Pages.basePage:basePage.py:21 Clicked on element: //button[text()='Accept All']
-INFO     Pages.home_page:home_page.py:14 Closed the welcome banner.
-ERROR    Pages.basePage:basePage.py:23 Failed to click element //a[@href='#subnav-search-desktop-top']//span[@class='icon-search bhc-icon-search-rounded']: Message: 
-
-ERROR    Pages.home_page:home_page.py:24 Failed to click search button: Message:

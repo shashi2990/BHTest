@@ -1,45 +1,45 @@
-2025-03-16 18:00:34,866 - INFO - BasePage initialized with WebDriver
-2025-03-16 18:00:35,143 - INFO - Clicked on element: //button[text()='Accept All']
-2025-03-16 18:00:35,144 - INFO - Closed the welcome banner.
-2025-03-16 18:00:35,975 - INFO - Clicked on element: //a[@href='#subnav-search-desktop-top']//span[@class='icon-search bhc-icon-search-rounded']
-2025-03-16 18:00:35,976 - INFO - Clicked on the search button.
-2025-03-16 18:00:36,669 - INFO - Clicked on element: //nav[@id='subnav-search-desktop-top']//input[@id='search-field']
-2025-03-16 18:00:36,670 - INFO - Clicked on the search bar.
-2025-03-16 18:00:36,827 - INFO - Entered text 'Employee Education in 2018: Strategies to Watch' into element: //nav[@id='subnav-search-desktop-top']//input[@id='search-field']
-2025-03-16 18:00:38,828 - INFO - Entered search text: Employee Education in 2018: Strategies to Watch
-2025-03-16 18:00:41,307 - INFO - Clicked on element: //nav[@id='subnav-search-desktop-top']//button[@type='submit'][normalize-space()='Search']
-2025-03-16 18:00:41,308 - INFO - Clicked on the search tab.
-2025-03-16 18:00:41,308 - INFO - BasePage initialized with WebDriver
-2025-03-16 18:00:41,364 - INFO - Element found: //h3[normalize-space()='Employee Education in 2018: Strategies to Watch']
-2025-03-16 18:00:41,384 - INFO - Retrieved text: Employee Education in 2018: Strategies to Watch
-2025-03-16 18:00:41,385 - INFO - Search functionality test passed!
-2025-03-16 18:00:54,303 - INFO - BasePage initialized with WebDriver
-2025-03-16 18:00:54,540 - INFO - Clicked on element: //button[text()='Accept All']
-2025-03-16 18:00:54,540 - INFO - Closed the welcome banner.
-2025-03-16 18:00:57,331 - INFO - Clicked on element: (//li[@class='nav-item displayed-desktop']/a[normalize-space()='Find a Center'])[2]
-2025-03-16 18:00:57,332 - INFO - Clicked on the find center button.
-2025-03-16 18:00:57,369 - INFO - URL parameter is correctly applied.
-2025-03-16 18:00:57,369 - INFO - BasePage initialized with WebDriver
-2025-03-16 18:00:57,721 - INFO - Entered text 'New York' into element: //input[@id='addressInput']
-2025-03-16 18:00:59,722 - INFO - Entered city name in search bar
-2025-03-16 18:00:59,766 - INFO - Pressed ENTER key on element: //input[@id='addressInput']
-2025-03-16 18:01:07,767 - INFO - Pressed ENTER on search bar
-2025-03-16 18:01:07,829 - INFO - Element found: //span[@class='resultsNumber']
-2025-03-16 18:01:07,849 - INFO - Final search count: 20
-2025-03-16 18:01:07,862 - INFO - Element found: //span[@class='resultsNumber']
-2025-03-16 18:01:07,875 - INFO - Final search count: 20
-2025-03-16 18:01:15,894 - INFO - Found 20 elements for locator: //div[@class='centerResult infoWindow track_center_select covidOpen']
-2025-03-16 18:01:15,894 - INFO - Total search results found: 20
-2025-03-16 18:01:23,909 - INFO - Found 20 elements for locator: //div[@class='centerResult infoWindow track_center_select covidOpen']
-2025-03-16 18:01:23,910 - INFO - Total search results found: 20
-2025-03-16 18:01:23,910 - INFO -  Debug: total_count = '20', listed_count = '20'
-2025-03-16 18:01:23,924 - INFO - Element found: //h3[text()='Bright Horizons at TriBeCa']
-2025-03-16 18:01:23,935 - INFO - First search result title: Bright Horizons at TriBeCa
-2025-03-16 18:01:23,948 - INFO - Element found: //span[text()='129 Hudson Street  New York, NY 10013 ']
-2025-03-16 18:01:24,157 - INFO - Clicked on element: //span[text()='129 Hudson Street  New York, NY 10013 ']
-2025-03-16 18:01:24,157 - INFO - First search result address: 129 Hudson Street New York, NY 10013
-2025-03-16 18:01:29,175 - INFO - Element found: //span[text()='Bright Horizons at TriBeCa']
-2025-03-16 18:01:29,187 - INFO - Search center name: Bright Horizons at TriBeCa
-2025-03-16 18:01:29,205 - INFO - Element found: //div[@class='mapTooltip__address']
-2025-03-16 18:01:29,217 - INFO - Search center address: 129 Hudson Street New York, NY 10013
-2025-03-16 18:01:29,217 - INFO - Center details matched. Test passed!
+2025-03-16 18:13:58,952 - INFO - BasePage initialized with WebDriver
+2025-03-16 18:13:59,209 - INFO - Clicked on element: //button[text()='Accept All']
+2025-03-16 18:13:59,209 - INFO - Closed the welcome banner.
+2025-03-16 18:14:00,033 - INFO - Clicked on element: //a[@href='#subnav-search-desktop-top']//span[@class='icon-search bhc-icon-search-rounded']
+2025-03-16 18:14:00,034 - INFO - Clicked on the search button.
+2025-03-16 18:14:00,707 - INFO - Clicked on element: //nav[@id='subnav-search-desktop-top']//input[@id='search-field']
+2025-03-16 18:14:00,708 - INFO - Clicked on the search bar.
+2025-03-16 18:14:00,892 - INFO - Entered text 'Employee Education in 2018: Strategies to Watch' into element: //nav[@id='subnav-search-desktop-top']//input[@id='search-field']
+2025-03-16 18:14:02,893 - INFO - Entered search text: Employee Education in 2018: Strategies to Watch
+2025-03-16 18:14:06,924 - INFO - Clicked on element: //nav[@id='subnav-search-desktop-top']//button[@type='submit'][normalize-space()='Search']
+2025-03-16 18:14:06,924 - INFO - Clicked on the search tab.
+2025-03-16 18:14:06,924 - INFO - BasePage initialized with WebDriver
+2025-03-16 18:14:06,944 - INFO - Element found: //h3[normalize-space()='Employee Education in 2018: Strategies to Watch']
+2025-03-16 18:14:06,961 - INFO - Retrieved text: Employee Education in 2018: Strategies to Watch
+2025-03-16 18:14:06,961 - INFO - Search functionality test passed!
+2025-03-16 18:14:21,543 - INFO - BasePage initialized with WebDriver
+2025-03-16 18:14:21,799 - INFO - Clicked on element: //button[text()='Accept All']
+2025-03-16 18:14:21,799 - INFO - Closed the welcome banner.
+2025-03-16 18:14:25,069 - INFO - Clicked on element: (//li[@class='nav-item displayed-desktop']/a[normalize-space()='Find a Center'])[2]
+2025-03-16 18:14:25,070 - INFO - Clicked on the find center button.
+2025-03-16 18:14:25,115 - INFO - URL parameter is correctly applied.
+2025-03-16 18:14:25,115 - INFO - BasePage initialized with WebDriver
+2025-03-16 18:14:25,627 - INFO - Entered text 'New York' into element: //input[@id='addressInput']
+2025-03-16 18:14:27,628 - INFO - Entered city name in search bar
+2025-03-16 18:14:27,672 - INFO - Pressed ENTER key on element: //input[@id='addressInput']
+2025-03-16 18:14:35,672 - INFO - Pressed ENTER on search bar
+2025-03-16 18:14:35,715 - INFO - Element found: //span[@class='resultsNumber']
+2025-03-16 18:14:35,731 - INFO - Final search count: 20
+2025-03-16 18:14:35,742 - INFO - Element found: //span[@class='resultsNumber']
+2025-03-16 18:14:35,753 - INFO - Final search count: 20
+2025-03-16 18:14:43,772 - INFO - Found 20 elements for locator: //div[@class='centerResult infoWindow track_center_select covidOpen']
+2025-03-16 18:14:43,772 - INFO - Total search results found: 20
+2025-03-16 18:14:51,787 - INFO - Found 20 elements for locator: //div[@class='centerResult infoWindow track_center_select covidOpen']
+2025-03-16 18:14:51,788 - INFO - Total search results found: 20
+2025-03-16 18:14:51,788 - INFO -  Debug: total_count = '20', listed_count = '20'
+2025-03-16 18:14:51,802 - INFO - Element found: //h3[text()='Bright Horizons at TriBeCa']
+2025-03-16 18:14:51,813 - INFO - First search result title: Bright Horizons at TriBeCa
+2025-03-16 18:14:51,830 - INFO - Element found: //span[text()='129 Hudson Street  New York, NY 10013 ']
+2025-03-16 18:14:52,048 - INFO - Clicked on element: //span[text()='129 Hudson Street  New York, NY 10013 ']
+2025-03-16 18:14:52,049 - INFO - First search result address: 129 Hudson Street New York, NY 10013
+2025-03-16 18:14:57,061 - INFO - Element found: //span[text()='Bright Horizons at TriBeCa']
+2025-03-16 18:14:57,070 - INFO - Search center name: Bright Horizons at TriBeCa
+2025-03-16 18:14:57,081 - INFO - Element found: //div[@class='mapTooltip__address']
+2025-03-16 18:14:57,090 - INFO - Search center address: 129 Hudson Street New York, NY 10013
+2025-03-16 18:14:57,090 - INFO - Center details matched. Test passed!
