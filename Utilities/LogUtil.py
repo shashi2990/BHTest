@@ -1,19 +1,23 @@
+import os
 import logging
-import time
-
+from datetime import datetime
 
 class Logger:
+    def __init__(self, logger_name, log_level=logging.INFO):
+        log_directory = "Logs"  # Define the log folder
+        os.makedirs(log_directory, exist_ok=True)  # Ensure directory exists
 
-    def __init__(self, logger, file_level=logging.INFO):
-        self.logger = logging.getLogger(logger)
-        self.logger.setLevel(logging.DEBUG)
+        log_filename = f"log{datetime.now().strftime('%Y-%m-%d')}.txt"
+        self.LogFileName = os.path.join(log_directory, log_filename)
 
-        fmt = logging.Formatter('%(asctime)s - %(filename)s:[%(lineno)s] - [%(levelname)s] - %(message)s')
+        # Set up logging
+        self.logger = logging.getLogger(logger_name)
+        self.logger.setLevel(log_level)
 
-        curr_time = time.strftime("%Y-%m-%d")
-        self.LogFileName = '..\\Logs\\log' + curr_time + '.txt'
-        # "a" to append the logs in same file, "w" to generate new logs and delete old one
         fh = logging.FileHandler(self.LogFileName, mode="a")
-        fh.setFormatter(fmt)
-        fh.setLevel(file_level)
+        fh.setLevel(log_level)
+
+        formatter = logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
+        fh.setFormatter(formatter)
+
         self.logger.addHandler(fh)

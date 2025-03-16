@@ -1,0 +1,6 @@
+INFO     Pages.basePage:basePage.py:15 BasePage initialized with WebDriver
+INFO     Pages.basePage:basePage.py:21 Clicked on element: //button[text()='Accept All']
+INFO     Pages.home_page:home_page.py:14 Closed the welcome banner.
+ERROR    Pages.basePage:basePage.py:23 Failed to click element (//li[@class='nav-item displayed-desktop']/a[normalize-space()='Find a Center'])[2]: Message: 
+
+ERROR    Pages.home_page:home_page.py:56 Failed to click find center button: Message:

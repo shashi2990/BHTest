@@ -54,7 +54,6 @@ class BasePage:
 
     def get_all_elements(self, by, value):
         try:
-            time.sleep(8)
             elements = self.wait.until(EC.presence_of_all_elements_located((by, value)))
             log.logger.info(f"Found {len(elements)} elements for locator: {value}")
             return elements
